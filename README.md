@@ -3,8 +3,15 @@
  I will be writting on bioinformatics workshop held from 23rd jan to 27th jan 2023.
 
 Day one.
-installation of tools .
-Git bash 
-R studio
+installation of tools
+git bash 
+r studio
+
+
 Day two. 
-command line
+Introduction to shell.
+command line.
+
+
+Day three.
+installation of git hub.
