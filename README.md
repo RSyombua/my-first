@@ -14,12 +14,16 @@ r studio
 
 
 **Day two.** 
-Introduction to shell.
+
+
+Introduction to shell
+
 command line.
 
 
-
 **Day three**
+
+          
 introduction to git hub.
 
 
